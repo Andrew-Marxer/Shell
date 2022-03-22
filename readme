@@ -1,0 +1,22 @@
+Andrew Marxer -- CSCE3600 -- Major 2
+compile with: gcc shell.c -l readline
+./a.out
+
+Completed:
+
+cd
+
+history(some issues with scrolling history using arrow keys, 
+prompt gets overwritten, hit enter to bring prompt back up)
+
+pipes/exec
+
+exec single stage commands
+
+not completed:
+
+file redirection(started but did not work out errors, recongizes redirection)
+
+variables
+
+
